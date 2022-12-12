@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "35241110036",
+    "project_id": "resturentmanagementsystem",
+    "storage_bucket": "resturentmanagementsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35241110036:android:ad4c5cde6af1e862b05501",
+        "android_client_info": {
+          "package_name": "com.example.resturantmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35241110036-2gsb2nk4i1cc7049kp06lbr12qabdj84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-E3_xbiT6yMowgy629F6U5__8LBGqxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35241110036-2gsb2nk4i1cc7049kp06lbr12qabdj84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35241110036-emfpnoosusjg4effmq3soq7a9oguv20h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resturentmanagementsystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35241110036:android:30fc1b840af19791b05501",
+        "android_client_info": {
+          "package_name": "com.example.resturentmanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35241110036-2gsb2nk4i1cc7049kp06lbr12qabdj84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-E3_xbiT6yMowgy629F6U5__8LBGqxFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35241110036-2gsb2nk4i1cc7049kp06lbr12qabdj84.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35241110036-emfpnoosusjg4effmq3soq7a9oguv20h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.resturentmanagementsystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
